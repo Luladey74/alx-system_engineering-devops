@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'list files or directories with extra information including hidden files or directories' > ls_cwd_content
